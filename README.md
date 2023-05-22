@@ -1,5 +1,5 @@
 
-###Hello!
+### Hello!
 I am Esha. I am a Master's student at Northeastern University majoring in Applied Mathematics with a specialisation in Machine Learning, I am passionate about integrating Machine Learning into real world problems and build scalable solutions. 
 - 🌱 I’m currently learning about Transformers and Topological Data Analysis 
 - 💬 Ask me about Mathematics, Machine Learning, Statistics, Deep Learning and Time Series Forecasting
